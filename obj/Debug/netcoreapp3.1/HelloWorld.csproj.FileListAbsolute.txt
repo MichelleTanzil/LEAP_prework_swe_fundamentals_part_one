@@ -1,0 +1,13 @@
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\Documents\Code\LEAP_training\Pre-work\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
